@@ -15,6 +15,9 @@
 		554D1762262FFE6A00176C3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 554D1760262FFE6A00176C3E /* LaunchScreen.storyboard */; };
 		554D176F26309FDE00176C3E /* PickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 554D176E26309FDE00176C3E /* PickerView.swift */; };
 		55B009F02631C46D00E471C9 /* ButtonSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B009EF2631C46D00E471C9 /* ButtonSample.swift */; };
+		55F8F6682632E818005EDF52 /* ImageViewSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55F8F6672632E818005EDF52 /* ImageViewSample.swift */; };
+		55F8F66B2632E98B005EDF52 /* MapViewSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55F8F66A2632E98B005EDF52 /* MapViewSample.swift */; };
+		55F8F66E2632EABD005EDF52 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55F8F66D2632EABD005EDF52 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +31,9 @@
 		554D1763262FFE6A00176C3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		554D176E26309FDE00176C3E /* PickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerView.swift; sourceTree = "<group>"; };
 		55B009EF2631C46D00E471C9 /* ButtonSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonSample.swift; sourceTree = "<group>"; };
+		55F8F6672632E818005EDF52 /* ImageViewSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewSample.swift; sourceTree = "<group>"; };
+		55F8F66A2632E98B005EDF52 /* MapViewSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewSample.swift; sourceTree = "<group>"; };
+		55F8F66D2632EABD005EDF52 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +75,9 @@
 				554D175D262FFE6A00176C3E /* Preview Content */,
 				554D176E26309FDE00176C3E /* PickerView.swift */,
 				55B009EF2631C46D00E471C9 /* ButtonSample.swift */,
+				55F8F6672632E818005EDF52 /* ImageViewSample.swift */,
+				55F8F66A2632E98B005EDF52 /* MapViewSample.swift */,
+				55F8F66D2632EABD005EDF52 /* DetailView.swift */,
 			);
 			path = SwiftUIDemo;
 			sourceTree = "<group>";
@@ -151,6 +160,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55F8F66B2632E98B005EDF52 /* MapViewSample.swift in Sources */,
+				55F8F66E2632EABD005EDF52 /* DetailView.swift in Sources */,
+				55F8F6682632E818005EDF52 /* ImageViewSample.swift in Sources */,
 				55B009F02631C46D00E471C9 /* ButtonSample.swift in Sources */,
 				554D176F26309FDE00176C3E /* PickerView.swift in Sources */,
 				554D1756262FFE6900176C3E /* AppDelegate.swift in Sources */,
